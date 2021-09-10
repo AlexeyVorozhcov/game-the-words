@@ -1,0 +1,5 @@
+
+pyuic5 win.ui -o win.py
+
+pyinstaller main.spec --icon=01.ico
+
